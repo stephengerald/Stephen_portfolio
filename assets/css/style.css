@@ -3179,6 +3179,10 @@ xclip
 	height: 100px;
 }
 
+.banner-style-one-items .thumb img:nth-child(1) {
+	border-radius: 1000px;
+}
+
 .bg-dark .banner-style-one-items .thumb img:nth-child(3) {
 	filter: brightness(0) invert(1);
 	opacity: 0.6;
